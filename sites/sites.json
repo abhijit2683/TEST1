@@ -1,3 +1,4 @@
 {
-    "filename" : "sites.json"
+    "filename" : "sites.json",
+    "path" : "/path"
 }
