@@ -24,5 +24,4 @@ jobs:
       with:
         python-version: ${{ matrix.python-version }}
     - name: Test with pytest
-      run: |
-        echo "Hello world"
+    run: echo 'The selected color is' ${steps.random-color-generator.outputs.SELECTED_COLOR}
