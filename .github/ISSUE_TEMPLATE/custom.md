@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-[ ] Add your name
-[ ] Add your address
+- [ ] Add your name
+- [ ] Add your address
